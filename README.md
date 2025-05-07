@@ -12,6 +12,7 @@ Energy consumption readings for equipment and lighting
 Temperature and humidity readings from 9 different zones in the facility
 Outdoor weather conditions (temperature, humidity, pressure, etc.)
 Additional measurements and calculated variables
+
 Specific Goals:
 1. Analyze the provided sensor data to identify patterns and relationships between environmental factors and equipment energy consumption
 2. Build a robust regression model to predict equipment energy consumption
